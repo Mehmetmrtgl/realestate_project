@@ -15,3 +15,6 @@
 2.	Satıcılar kendi paylaştığı Emlakları görebilmeli bunlar üzerinde değişiklik yapabilmeli veya silebilmeliler.
 3.	Alıcı, sisteme satıcı olarak kayıt yaptırmış insanların paylaştığı tüm Emlaklara erişebilmeli ve bu Emlaklar arasında arama yapabilmeliler.
 4.	Alıcılar satıcıların paylaştığı Emlakların tüm özelliklerine erişebilmeli ve satıcı bilgilerine ulaşabilmelilerdir.
+
+# UML of backend
+ ![Adsız](https://github.com/Mehmetmrtgl/realestate_project/assets/90991957/9cc9e0e9-2c20-4d1e-94f2-ebcde1fa9a57)
